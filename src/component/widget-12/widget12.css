@@ -1,0 +1,14 @@
+
+.widget12-container{
+    background-color: green;
+}
+.widget12-marquee-text{
+font-weight: 700;
+font-size: 14px;
+color: white;
+}
+.widget12-feedback{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
